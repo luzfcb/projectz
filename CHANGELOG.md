@@ -11,3 +11,4 @@ and this project adheres to [Calendar Versioning](http://calver.org/) and follow
 ### Added
 - start the project
 - [django-letsencrypt](https://github.com/urda/django-letsencrypt)
+- use python3.7 on heroku
