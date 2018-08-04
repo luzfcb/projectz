@@ -68,6 +68,7 @@ THIRD_PARTY_APPS = [
     'allauth.account',
     'allauth.socialaccount',
     'rest_framework',
+    'letsencrypt',
 ]
 LOCAL_APPS = [
     'projectz.users.apps.UsersAppConfig',
