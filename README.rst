@@ -21,6 +21,18 @@ Moved to settings_.
 Basic Commands
 --------------
 
+Setup local dev environment
+
+Quick install pyenv and Python: https://gist.github.com/luzfcb/1a7f64adf5d12c2d357d0b4319fe9dcd
+
+
+```
+mkvirtualenv -p python3.7 -a $(pwd) -r requirements/production.txt -r requirements/local.txt  projectz
+
+```
+
+
+
 Setting Up Your Users
 ^^^^^^^^^^^^^^^^^^^^^
 
